@@ -1,0 +1,15 @@
+{
+    "name": "js-interview",
+    "version": "1.0.0",
+    "description": "",
+    "main": "args.js",
+    "scripts": {
+        "test": "mocha './*.test.js' --reporter=nyan"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "chai": "^4.1.2",
+        "mocha": "^5.2.0"
+    }
+}
